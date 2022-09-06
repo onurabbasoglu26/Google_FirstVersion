@@ -1,0 +1,38 @@
+main {
+    padding: 0% 5%;
+}
+
+header {
+    text-align: center;
+    width: 100%;
+}
+
+table {
+    width: 100%;
+}
+
+.google-search {
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+.link-search {
+    background-color: #7EE5DA;
+    text-align: center;
+    width: 37%;
+}
+
+.links {
+    background-color: #70CCC2;
+    text-align: center;
+}
+
+.subs {
+    background-color: #62B3AA;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    width: 100%;
+}
